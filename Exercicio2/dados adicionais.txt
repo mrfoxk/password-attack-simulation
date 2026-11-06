@@ -1,0 +1,10 @@
+Link do portal de login: http://192.168.56.101/dvwa/login.php
+Metodo: POST
+
+Conteudo da requisicao:
+
+- username      "<Nome de usuario>"
+- password      "<Senha>"
+  Login         "Login"
+
+Resposta em caso da requisicao falhar: 302 "Login failed"
